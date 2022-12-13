@@ -1,0 +1,20 @@
+C:\Users\lab1anapc\Documents\görsel prog. 1\hafta5\mayintarlasi\mayintarlasi\bin\Debug\mayintarlasi.exe.config
+C:\Users\lab1anapc\Documents\görsel prog. 1\hafta5\mayintarlasi\mayintarlasi\bin\Debug\mayintarlasi.exe
+C:\Users\lab1anapc\Documents\görsel prog. 1\hafta5\mayintarlasi\mayintarlasi\bin\Debug\mayintarlasi.pdb
+C:\Users\lab1anapc\Documents\görsel prog. 1\hafta5\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.csprojResolveAssemblyReference.cache
+C:\Users\lab1anapc\Documents\görsel prog. 1\hafta5\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.Form1.resources
+C:\Users\lab1anapc\Documents\görsel prog. 1\hafta5\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.Properties.Resources.resources
+C:\Users\lab1anapc\Documents\görsel prog. 1\hafta5\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.csproj.GenerateResource.Cache
+C:\Users\lab1anapc\Documents\görsel prog. 1\hafta5\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.exe
+C:\Users\lab1anapc\Documents\görsel prog. 1\hafta5\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.pdb
+C:\Users\asus\Desktop\C# uygulama\source\mayintarlasi\mayintarlasi\bin\Debug\mayintarlasi.exe.config
+C:\Users\asus\Desktop\C# uygulama\source\mayintarlasi\mayintarlasi\bin\Debug\mayintarlasi.exe
+C:\Users\asus\Desktop\C# uygulama\source\mayintarlasi\mayintarlasi\bin\Debug\mayintarlasi.pdb
+C:\Users\asus\Desktop\C# uygulama\source\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\C# uygulama\source\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Desktop\C# uygulama\source\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.Form1.resources
+C:\Users\asus\Desktop\C# uygulama\source\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.Properties.Resources.resources
+C:\Users\asus\Desktop\C# uygulama\source\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\C# uygulama\source\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C# uygulama\source\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.exe
+C:\Users\asus\Desktop\C# uygulama\source\mayintarlasi\mayintarlasi\obj\Debug\mayintarlasi.pdb
